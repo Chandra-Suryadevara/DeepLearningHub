@@ -1,6 +1,6 @@
 # Deep Learning Tutorials and Mini Projects
 
-Welcome to the Deep Learning Tutorials and Mini Projects repository! 🚀 This repo is your gateway to mastering deep learning concepts through hands-on tutorials and engaging mini projects. Whether you're a beginner or an experienced practitioner, you'll find valuable resources to enhance your deep learning journey.
+Welcome to the Deep Learning Tutorials and Mini Projects repository! 🚀 This repo is your gateway to mastering deep learning concepts through hands-on tutorials and engaging mini projects. Whether you're a beginner or an experienced practitioner, you'll find valuable resources to enhance your deep learning journey. 
 
 ## Table of Contents
 - [Introduction](#introduction)
